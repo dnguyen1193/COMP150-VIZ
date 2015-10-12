@@ -1,0 +1,28 @@
+COMP 150VIZ, A1
+Duyen Nguyen, Denali Rao
+
+For this assignment, we decided to only implement the basic requirements for 
+the assignment. Instead of focusing on implementing additional features, we 
+worked with the basics and add subtle design features that would make our 
+squarified treemap easier to use visually, making it easier for a user to
+understand and interpret the data in the process. 
+
+We noticed in our first version that it was sometimes difficult to click or
+hover over the rectangle one wanted without accidentally clicking or hovering
+over its parent or child. Because of this, in the second iteration, we made 
+the padding of the rectangles bigger, to make it easier for someone to use 
+the mouse to hover over a specific rectangle.  Additionally, we added tooltips:
+when a rectangle is highlighted, a tooltip displaying its ID and value also
+pops up, making the magnitude of the data accessible both visually as
+rectangles and as text.
+
+We also made the frame rate slightly higher to make the program
+more responsive. 
+
+In class, we discussed the benefits of certain visual attributes. Humans have 
+evolved to be able to distinguish and differentiate colors. We made the color 
+of the rectangle dependent on which level of the tree it belonged to, so that 
+nodes of the same depth would be grouped visually. Because of the human eye's 
+pattern recognition capabilities and color perception, viewers will be able 
+to pick out which nodes are deeper relatively than others, without having 
+to closely examine the visualization.

@@ -1,0 +1,7 @@
+Denali Rao
+Duyen Nguyen
+
+We worked on most of the project together, discussing how different features
+should be implemented and actually implementing it one by one. Duyen debugged
+the hover capability and Denali debugged the zoom capability separately when
+the basic not fully functional code was determined.
