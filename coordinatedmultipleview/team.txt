@@ -1,0 +1,8 @@
+COMP150-VIZ: Visualizations
+Fall 2015
+Assignment 4: Coordinated Multiple View
+Due Date: Monday, November 9, 2015
+
+Submitted By: Filipe Barroso and Duyen Nguyen
+
+We both worked on everything together.
