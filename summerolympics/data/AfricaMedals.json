@@ -1,0 +1,160 @@
+{
+    "1908": [
+        {"Country":"South Africa","Gold":1,"Silver":1,"Bronze":0,"Total":2}
+    ],
+    "1912": [
+        {"Country":"South Africa","Gold":4,"Silver":2,"Bronze":0,"Total":6}
+    ],
+    "1920": [
+        {"Country":"South Africa","Gold":3,"Silver":4,"Bronze":3,"Total":10}
+    ],
+    "1924": [
+        {"Country":"South Africa","Gold":1,"Silver":1,"Bronze":1,"Total":3}
+    ],
+    "1928": [
+        {"Country":"Egypt","Gold":2,"Silver":1,"Bronze":1,"Total":4},
+        {"Country":"South Africa","Gold":1,"Silver":0,"Bronze":2,"Total":3}
+    ],
+    "1932": [
+        {"Country":"South Africa","Gold":2,"Silver":0,"Bronze":3,"Total":5}
+    ],
+    "1936": [
+        {"Country":"Egypt","Gold":2,"Silver":1,"Bronze":2,"Total":5},
+        {"Country":"South Africa","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1948": [
+        {"Country":"South Africa","Gold":2,"Silver":2,"Bronze":2,"Total":6},
+        {"Country":"Egypt","Gold":2,"Silver":2,"Bronze":1,"Total":5}
+    ],
+    "1952": [
+        {"Country":"South Africa","Gold":2,"Silver":4,"Bronze":4,"Total":10},
+        {"Country":"Egypt","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1956": [
+        {"Country":"South Africa","Gold":0,"Silver":0,"Bronze":4,"Total":4}
+    ],
+    "1960": [
+        {"Country":"South Africa","Gold":0,"Silver":1,"Bronze":2,"Total":3},
+        {"Country":"Egypt","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Ethiopia","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Ghana","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Morocco","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1964": [
+        {"Country":"Tunisia","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Ethiopia","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Ghana","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Kenya","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Nigeria","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1968": [
+        {"Country":"Kenya","Gold":3,"Silver":4,"Bronze":2,"Total":9},
+        {"Country":"Ethiopia","Gold":1,"Silver":1,"Bronze":0,"Total":2},
+        {"Country":"Tunisia","Gold":1,"Silver":0,"Bronze":1,"Total":2},
+        {"Country":"Uganda","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Cameroon","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1972": [
+        {"Country":"Kenya","Gold":2,"Silver":3,"Bronze":4,"Total":9},
+        {"Country":"Ethiopia","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Uganda","Gold":1,"Silver":1,"Bronze":0,"Total":2},
+        {"Country":"Ghana","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Nigeria","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Niger","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Tunisia","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1980": [
+        {"Country":"Ethiopia","Gold":2,"Silver":0,"Bronze":2,"Total":4},
+        {"Country":"Tanzania","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"Uganda","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Zimbabwe","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1984": [
+        {"Country":"Kenya","Gold":1,"Silver":0,"Bronze":2,"Total":3},
+        {"Country":"Algeria","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Morocco","Gold":2,"Silver":0,"Bronze":0,"Total":2},
+        {"Country":"Nigeria","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Ivory Coast","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Cameroon","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Egypt","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Zambia","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1988": [
+        {"Country":"Kenya","Gold":5,"Silver":2,"Bronze":2,"Total":9},
+        {"Country":"Morocco","Gold":1,"Silver":0,"Bronze":2,"Total":3},
+        {"Country":"Djibouti","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Senegal","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1992": [
+        {"Country":"Kenya","Gold":2,"Silver":4,"Bronze":2,"Total":8},
+        {"Country":"Nigeria","Gold":0,"Silver":3,"Bronze":1,"Total":4},
+        {"Country":"Ethiopia","Gold":1,"Silver":0,"Bronze":2,"Total":3},
+        {"Country":"Morocco","Gold":1,"Silver":1,"Bronze":1,"Total":3},
+        {"Country":"Algeria","Gold":1,"Silver":0,"Bronze":1,"Total":2},
+        {"Country":"Namibia","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"South Africa","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"Ghana","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1996": [
+        {"Country":"Kenya","Gold":1,"Silver":4,"Bronze":3,"Total":8},
+        {"Country":"Nigeria","Gold":2,"Silver":1,"Bronze":3,"Total":6},
+        {"Country":"South Africa","Gold":3,"Silver":1,"Bronze":1,"Total":5},
+        {"Country":"Algeria","Gold":2,"Silver":0,"Bronze":1,"Total":3},
+        {"Country":"Ethiopia","Gold":2,"Silver":0,"Bronze":1,"Total":3},
+        {"Country":"Morocco","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Namibia","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"Burundi","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Mozambique","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Tunisia","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Uganda","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Zambia","Gold":0,"Silver":1,"Bronze":0,"Total":1}],
+    "2000": [
+        {"Country":"Ethiopia","Gold":4,"Silver":1,"Bronze":3,"Total":8},
+        {"Country":"Kenya","Gold":2,"Silver":3,"Bronze":2,"Total":7},
+        {"Country":"Algeria","Gold":1,"Silver":1,"Bronze":3,"Total":5},
+        {"Country":"Morocco","Gold":0,"Silver":1,"Bronze":4,"Total":5},
+        {"Country":"South Africa","Gold":0,"Silver":2,"Bronze":3,"Total":5},
+        {"Country":"Nigeria","Gold":0,"Silver":3,"Bronze":0,"Total":3},
+        {"Country":"Cameroon","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Mozambique","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "2004": [
+        {"Country":"Ethiopia","Gold":2,"Silver":3,"Bronze":2,"Total":7},
+        {"Country":"Kenya","Gold":1,"Silver":4,"Bronze":2,"Total":7},
+        {"Country":"South Africa","Gold":1,"Silver":3,"Bronze":2,"Total":6},
+        {"Country":"Egypt","Gold":1,"Silver":1,"Bronze":3,"Total":5},
+        {"Country":"Morocco","Gold":2,"Silver":1,"Bronze":0,"Total":3},
+        {"Country":"Zimbabwe","Gold":1,"Silver":1,"Bronze":1,"Total":3},
+        {"Country":"Nigeria","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Cameroon","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Eritrea","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "2008": [
+        {"Country":"Kenya","Gold":5,"Silver":5,"Bronze":4,"Total":14},
+        {"Country":"Ethiopia","Gold":4,"Silver":1,"Bronze":2,"Total":7},
+        {"Country":"Nigeria","Gold":0,"Silver":1,"Bronze":3,"Total":4},
+        {"Country":"Zimbabwe","Gold":1,"Silver":3,"Bronze":0,"Total":4},
+        {"Country":"Algeria","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Morocco","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Burkina Faso","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Cameroon","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Egypt","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Mauritius","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"South Africa","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Sudan","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Togo","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Tunisia","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "2012": [
+        {"Country":"South Africa","Gold":3,"Silver":2,"Bronze":1,"Total":6},
+        {"Country":"Ethiopia","Gold":3,"Silver":1,"Bronze":3,"Total":7},
+        {"Country":"Kenya","Gold":2,"Silver":4,"Bronze":5,"Total":11},
+        {"Country":"Tunisia","Gold":1,"Silver":1,"Bronze":1,"Total":3},
+        {"Country":"Algeria","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Uganda","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Egypt","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"Botswana","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Gabon","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Morocco","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ]
+}

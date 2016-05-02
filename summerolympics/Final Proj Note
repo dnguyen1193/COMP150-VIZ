@@ -1,0 +1,42 @@
+Exploratory Visualizations of Olympic Games Data Throughout the Years
+
+FEATURES:
+- Globe (WebGL) with spikes representing total medals a certain country got for each year
+    dependent on year selected
+    would like to add option to select multiple years and show the sum for all of those years
+- D3 for a barchart
+    top x number of countries along with medal count
+    dependent on years selected
+    interactivity: hover has a pop-up of which country
+    toggle between total medal count vs. total bronze/silver/gold medals
+- Bootstrap
+    - picture carousel with relevant photos per year
+            have the globe rotate depending on what picture is shown in the carousel (initially)
+    - table of athlete medal count
+            depending on year(s) selected, it updates accordingly
+- JQuery used to manipulate everything
+
+Things it would allow a user to do:
+- Explore data and see trends throughout the years
+- Through the globe, see which countries even participated and whether there are large areas that are not part of the Olympics at all
+- 
+
+
+
+
+IDEAS:
+- flattened map of the world -> color-coded continents (or country - just color it) based off amount of participation in a particular year; dots for countries that participated that year
+    - currently using: https://github.com/markmarkoh/datamaps/blob/master/README.md#getting-started
+    - http://www.d3noob.org/2013/03/a-simple-d3js-map-explained.html
+    - https://d3-geomap.github.io/map/choropleth/world/
+- bar chart -> x-axis: continents, y-axis: fraction/percentage of total countries in that continent that participated in Olympic that year
+- pie charts -> one per continent, split by country/medal count; have one overall one split by medal count per continent; radius corresponding to medals won total in that continent
+- WebGL Globe -> self rotating; shows medal count per country (example: http://seminar.mmc.nsu.ru/en.php)
+- Olympic "podium"
+- ratio of # of participants/medals won (or vice versa)
+
+
+-figure out active year
+-figure out which country based off country code
+    country code = class name for that country
+

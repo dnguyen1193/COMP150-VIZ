@@ -1,0 +1,196 @@
+{
+    "1896": [
+        {"Year":1896,"Country":"United States","Gold":11,"Silver":7,"Bronze":2,"Total":20}
+    ],
+    "1900": [
+        {"Country":"United States","Gold":19,"Silver":14,"Bronze":15,"Total":48},
+        {"Country":"Canada","Gold":1,"Silver":0,"Bronze":1,"Total":2},
+        {"Country":"Cuba","Gold":1,"Silver":1,"Bronze":0,"Total":2},
+        {"Country":"Mexico","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1904": [
+        {"Country":"United States","Gold":78,"Silver":82,"Bronze":79,"Total":239},
+        {"Country":"Cuba","Gold":4,"Silver":2,"Bronze":3,"Total":9},
+        {"Country":"Canada","Gold":4,"Silver":1,"Bronze":1,"Total":6}
+    ],
+    "1908": [
+        {"Country":"United States","Gold":23,"Silver":12,"Bronze":12,"Total":47},
+        {"Country":"Canada","Gold":3,"Silver":3,"Bronze":10,"Total":16}
+    ],
+    "1912": [
+        {"Country":"United States","Gold":26,"Silver":19,"Bronze":19,"Total":64},
+        {"Country":"Canada","Gold":3,"Silver":2,"Bronze":3,"Total":8}
+    ],
+    "1920": [
+        {"Country":"United States","Gold":41,"Silver":27,"Bronze":27,"Total":95},
+        {"Country":"Canada","Gold":3,"Silver":3,"Bronze":3,"Total":9}
+    ],
+    "1924": [
+        {"Country":"United States","Gold":45,"Silver":27,"Bronze":27,"Total":99},
+        {"Country":"Canada","Gold":0,"Silver":3,"Bronze":1,"Total":4},
+        {"Country":"Haiti","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1928": [
+        {"Country":"United States","Gold":22,"Silver":18,"Bronze":16,"Total":56},
+        {"Country":"Canada","Gold":4,"Silver":4,"Bronze":7,"Total":15},
+        {"Country":"Haiti","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1932": [
+        {"Country":"United States","Gold":44,"Silver":36,"Bronze":30,"Total":110},
+        {"Country":"Canada","Gold":2,"Silver":5,"Bronze":9,"Total":16},
+        {"Country":"Mexico","Gold":0,"Silver":2,"Bronze":0,"Total":2}
+    ],
+    "1936": [
+        {"Country":"United States","Gold":24,"Silver":21,"Bronze":12,"Total":57},
+        {"Country":"Canada","Gold":1,"Silver":3,"Bronze":5,"Total":9},
+        {"Country":"Mexico","Gold":0,"Silver":0,"Bronze":3,"Total":3}
+    ],
+    "1948": [
+        {"Country":"United States","Gold":38,"Silver":27,"Bronze":19,"Total":84},
+        {"Country":"Mexico","Gold":2,"Silver":1,"Bronze":2,"Total":5},
+        {"Country":"Canada","Gold":0,"Silver":2,"Bronze":2,"Total":4},
+        {"Country":"Jamaica","Gold":1,"Silver":2,"Bronze":0,"Total":3},
+        {"Country":"Panama","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Cuba","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Puerto Rico","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Trinidad & Tobago","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1952": [
+        {"Country":"United States","Gold":40,"Silver":19,"Bronze":17,"Total":76},
+        {"Country":"Jamaica","Gold":2,"Silver":3,"Bronze":0,"Total":5},
+        {"Country":"Canada","Gold":1,"Silver":2,"Bronze":0,"Total":3},
+        {"Country":"Trinidad & Tobago","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Mexico","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1956": [
+        {"Country":"United States","Gold":32,"Silver":25,"Bronze":17,"Total":74},
+        {"Country":"Canada","Gold":2,"Silver":1,"Bronze":3,"Total":6},
+        {"Country":"Mexico","Gold":1,"Silver":0,"Bronze":1,"Total":2},
+        {"Country":"Bahamas","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1960": [
+        {"Country":"United States","Gold":34,"Silver":21,"Bronze":16,"Total":71},
+        {"Country":"British West Indies","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Canada","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Mexico","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1964": [
+        {"Country":"United States","Gold":36,"Silver":26,"Bronze":28,"Total":90},
+        {"Country":"Canada","Gold":1,"Silver":2,"Bronze":1,"Total":4},
+        {"Country":"Trinidad & Tobago","Gold":0,"Silver":1,"Bronze":2,"Total":3},
+        {"Country":"Bahamas","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Cuba","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Mexico","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1968": [
+        {"Country":"United States","Gold":45,"Silver":28,"Bronze":34,"Total":107},
+        {"Country":"Mexico","Gold":3,"Silver":3,"Bronze":3,"Total":9},
+        {"Country":"Canada","Gold":1,"Silver":3,"Bronze":1,"Total":5},
+        {"Country":"Cuba","Gold":0,"Silver":4,"Bronze":0,"Total":4},
+        {"Country":"Jamaica","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1972": [
+        {"Country":"United States","Gold":33,"Silver":31,"Bronze":30,"Total":94},
+        {"Country":"Cuba","Gold":3,"Silver":1,"Bronze":4,"Total":8},
+        {"Country":"Canada","Gold":0,"Silver":2,"Bronze":3,"Total":5},
+        {"Country":"Jamaica","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Mexico","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1976": [
+        {"Country":"United States","Gold":34,"Silver":35,"Bronze":25,"Total":94},
+        {"Country":"Cuba","Gold":6,"Silver":4,"Bronze":3,"Total":13},
+        {"Country":"Canada","Gold":0,"Silver":5,"Bronze":6,"Total":11},
+        {"Country":"Jamaica","Gold":1,"Silver":1,"Bronze":0,"Total":2},
+        {"Country":"Mexico","Gold":1,"Silver":0,"Bronze":1,"Total":2},
+        {"Country":"Bermuda","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Puerto Rico","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Trinidad & Tobago","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1980": [
+        {"Country":"Cuba","Gold":8,"Silver":7,"Bronze":5,"Total":20},
+        {"Country":"Mexico","Gold":0,"Silver":1,"Bronze":3,"Total":4},
+        {"Country":"Jamaica","Gold":0,"Silver":0,"Bronze":3,"Total":3}
+    ],
+    "1984": [
+        {"Country":"United States","Gold":83,"Silver":61,"Bronze":30,"Total":174},
+        {"Country":"Canada","Gold":10,"Silver":18,"Bronze":16,"Total":44},
+        {"Country":"Mexico","Gold":2,"Silver":3,"Bronze":1,"Total":6},
+        {"Country":"Jamaica","Gold":0,"Silver":1,"Bronze":2,"Total":3},
+        {"Country":"Puerto Rico","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Dominican Republic","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1988": [
+        {"Country":"United States","Gold":36,"Silver":31,"Bronze":27,"Total":94},
+        {"Country":"Canada","Gold":3,"Silver":2,"Bronze":5,"Total":10},
+        {"Country":"Jamaica","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"Mexico","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Netherland Antilles","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Costa Rica","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Virgin Islands","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1992": [
+        {"Country":"United States","Gold":37,"Silver":34,"Bronze":37,"Total":108},
+        {"Country":"Cuba","Gold":14,"Silver":6,"Bronze":11,"Total":31},
+        {"Country":"Canada","Gold":7,"Silver":4,"Bronze":7,"Total":18},
+        {"Country":"Jamaica","Gold":0,"Silver":3,"Bronze":1,"Total":4},
+        {"Country":"Bahamas","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Mexico","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Puerto Rico","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1996": [
+        {"Country":"United States","Gold":44,"Silver":32,"Bronze":25,"Total":101},
+        {"Country":"Cuba","Gold":9,"Silver":8,"Bronze":8,"Total":25},
+        {"Country":"Canada","Gold":3,"Silver":11,"Bronze":8,"Total":22},
+        {"Country":"Jamaica","Gold":1,"Silver":3,"Bronze":2,"Total":6},
+        {"Country":"Trinidad & Tobago","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Bahamas","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Costa Rica","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Mexico","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Puerto Rico","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "2000": [
+        {"Country":"United States","Gold":37,"Silver":24,"Bronze":31,"Total":92},
+        {"Country":"Cuba","Gold":11,"Silver":11,"Bronze":7,"Total":29},
+        {"Country":"Canada","Gold":3,"Silver":3,"Bronze":8,"Total":14},
+        {"Country":"Jamaica","Gold":0,"Silver":5,"Bronze":4,"Total":9},
+        {"Country":"Mexico","Gold":1,"Silver":2,"Bronze":3,"Total":6},
+        {"Country":"Bahamas","Gold":2,"Silver":0,"Bronze":0,"Total":2},
+        {"Country":"Costa Rica","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Trinidad & Tobago","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Barbados","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "2004": [
+        {"Country":"United States","Gold":36,"Silver":39,"Bronze":28,"Total":103},
+        {"Country":"Cuba","Gold":9,"Silver":7,"Bronze":11,"Total":27},
+        {"Country":"Canada","Gold":3,"Silver":6,"Bronze":3,"Total":12},
+        {"Country":"Jamaica","Gold":2,"Silver":1,"Bronze":2,"Total":5},
+        {"Country":"Mexico","Gold":0,"Silver":3,"Bronze":1,"Total":4},
+        {"Country":"Bahamas","Gold":1,"Silver":0,"Bronze":1,"Total":2},
+        {"Country":"Dominican Republic","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Trinidad & Tobago","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "2008": [
+        {"Country":"United States","Gold":36,"Silver":38,"Bronze":36,"Total":110},
+        {"Country":"Cuba","Gold":2,"Silver":11,"Bronze":12,"Total":25},
+        {"Country":"Canada","Gold":3,"Silver":9,"Bronze":6,"Total":18},
+        {"Country":"Jamaica","Gold":6,"Silver":2,"Bronze":2,"Total":10},
+        {"Country":"Mexico","Gold":2,"Silver":0,"Bronze":1,"Total":3},
+        {"Country":"Bahamas","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Dominican Republic","Gold":1,"Silver":1,"Bronze":0,"Total":2},
+        {"Country":"Trinidad & Tobago","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"Panama","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "2012": [
+        {"Country":"United States","Gold":46,"Silver":29,"Bronze":29,"Total":104},
+        {"Country":"Cuba","Gold":5,"Silver":3,"Bronze":6,"Total":14},
+        {"Country":"Jamaica","Gold":4,"Silver":4,"Bronze":4,"Total":12},
+        {"Country":"Canada","Gold":1,"Silver":5,"Bronze":12,"Total":18},
+        {"Country":"Mexico","Gold":1,"Silver":3,"Bronze":3,"Total":7},
+        {"Country":"Dominican Republic","Gold":1,"Silver":1,"Bronze":0,"Total":2},
+        {"Country":"Trinidad & Tobago","Gold":1,"Silver":0,"Bronze":3,"Total":4},
+        {"Country":"Bahamas","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Grenada","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Puerto Rico","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Guatemala","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ]
+}

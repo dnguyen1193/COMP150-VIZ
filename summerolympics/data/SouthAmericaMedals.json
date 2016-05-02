@@ -1,0 +1,124 @@
+{
+    "1920": [
+        {"Country":"Brazil","Gold":1,"Silver":1,"Bronze":1,"Total":3}
+    ],
+    "1924": [
+        {"Country":"Argentina","Gold":1,"Silver":3,"Bronze":2,"Total":6},
+        {"Country":"Uruguay","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1928": [
+        {"Country":"Argentina","Gold":3,"Silver":3,"Bronze":1,"Total":7},
+        {"Country":"Chile","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Uruguay","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1932": [
+        {"Country":"Argentina","Gold":3,"Silver":1,"Bronze":0,"Total":4},
+        {"Country":"Uruguay","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1936": [
+        {"Country":"Argentina","Gold":2,"Silver":2,"Bronze":3,"Total":7}
+    ],
+    "1948": [
+        {"Country":"Argentina","Gold":3,"Silver":3,"Bronze":1,"Total":7},
+        {"Country":"Uruguay","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Brazil","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Peru","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1952": [
+        {"Country":"Argentina","Gold":1,"Silver":2,"Bronze":2,"Total":5},
+        {"Country":"Brazil","Gold":1,"Silver":0,"Bronze":2,"Total":3},
+        {"Country":"Chile","Gold":0,"Silver":2,"Bronze":0,"Total":2},
+        {"Country":"Uruguay","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Venezuela","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1956": [
+        {"Country":"Chile","Gold":0,"Silver":2,"Bronze":2,"Total":4},
+        {"Country":"Argentina","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Brazil","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Uruguay","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1960": [
+        {"Country":"Argentina","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Brazil","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Venezuela","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1964": [
+        {"Country":"Argentina","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Brazil","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Uruguay","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1968": [
+        {"Country":"Brazil","Gold":0,"Silver":1,"Bronze":2,"Total":3},
+        {"Country":"Argentina","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Venezuela","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1972": [
+        {"Country":"Colombia","Gold":0,"Silver":1,"Bronze":2,"Total":3},
+        {"Country":"Brazil","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Argentina","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1976": [
+        {"Country":"Brazil","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Venezuela","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1980": [
+        {"Country":"Brazil","Gold":2,"Silver":0,"Bronze":2,"Total":4},
+        {"Country":"Guyana","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Venezuela","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1984": [
+        {"Country":"Brazil","Gold":1,"Silver":5,"Bronze":2,"Total":8},
+        {"Country":"Venezuela","Gold":0,"Silver":0,"Bronze":3,"Total":3},
+        {"Country":"Colombia","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Peru","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1988": [
+        {"Country":"Brazil","Gold":1,"Silver":2,"Bronze":3,"Total":6},
+        {"Country":"Argentina","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Chile","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Colombia","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Peru","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Suriname","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1992": [
+        {"Country":"Brazil","Gold":2,"Silver":1,"Bronze":0,"Total":3},
+        {"Country":"Argentina","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Colombia","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Peru","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Suriname","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1996": [
+        {"Country":"Brazil","Gold":3,"Silver":3,"Bronze":9,"Total":15},
+        {"Country":"Argentina","Gold":0,"Silver":2,"Bronze":1,"Total":3},
+        {"Country":"Ecuador","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "2000": [
+        {"Country":"Brazil","Gold":0,"Silver":6,"Bronze":6,"Total":12},
+        {"Country":"Argentina","Gold":0,"Silver":2,"Bronze":2,"Total":4},
+        {"Country":"Chile","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Colombia","Gold":1,"Silver":0,"Bronze":0,"Total":1},
+        {"Country":"Uruguay","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "2004": [
+        {"Country":"Brazil","Gold":5,"Silver":2,"Bronze":3,"Total":10},
+        {"Country":"Argentina","Gold":2,"Silver":0,"Bronze":4,"Total":6},
+        {"Country":"Chile","Gold":2,"Silver":0,"Bronze":1,"Total":3},
+        {"Country":"Venezuela","Gold":0,"Silver":0,"Bronze":2,"Total":2},
+        {"Country":"Colombia","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"Paraguay","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "2008": [
+        {"Country":"Brazil","Gold":3,"Silver":4,"Bronze":7,"Total":14},
+        {"Country":"Argentina","Gold":2,"Silver":0,"Bronze":4,"Total":6},
+        {"Country":"Colombia","Gold":0,"Silver":1,"Bronze":1,"Total":2},
+        {"Country":"Chile","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Ecuador","Gold":0,"Silver":1,"Bronze":0,"Total":1},
+        {"Country":"Venezuela","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "2012": [
+        {"Country":"Brazil","Gold":3,"Silver":5,"Bronze":9,"Total":17},
+        {"Country":"Colombia","Gold":1,"Silver":3,"Bronze":4,"Total":8},
+        {"Country":"Argentina","Gold":1,"Silver":1,"Bronze":2,"Total":4},
+        {"Country":"Venezuela","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ]
+}

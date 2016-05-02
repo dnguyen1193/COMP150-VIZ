@@ -1,0 +1,101 @@
+{
+    "1896": [
+        {"Country":"Australia","Gold":2,"Silver":0,"Bronze":0,"Total":2}
+    ],
+    "1900": [
+        {"Country":"Australia","Gold":2,"Silver":0,"Bronze":3,"Total":5}
+    ],
+    "1908": [
+        {"Country":"Australasia","Gold":1,"Silver":2,"Bronze":2,"Total":5}
+    ],
+    "1912": [
+        {"Country":"Australasia","Gold":2,"Silver":2,"Bronze":3,"Total":7}
+    ],
+    "1920": [
+        {"Country":"Australia","Gold":0,"Silver":2,"Bronze":1,"Total":3},
+        {"Country":"New Zealand","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1924": [
+        {"Country":"Australia","Gold":3,"Silver":1,"Bronze":2,"Total":6},
+        {"Country":"New Zealand","Gold":0,"Silver":0,"Bronze":1,"Total":1}
+    ],
+    "1928": [
+        {"Country":"Australia","Gold":1,"Silver":2,"Bronze":1,"Total":4},
+        {"Country":"New Zealand","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1932": [
+        {"Country":"Australia","Gold":3,"Silver":1,"Bronze":1,"Total":5},
+        {"Country":"New Zealand","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "1936": [
+        {"Country":"Australia","Gold":0,"Silver":0,"Bronze":1,"Total":1},
+        {"Country":"New Zealand","Gold":1,"Silver":0,"Bronze":0,"Total":1}
+    ],
+    "1948": [
+        {"Country":"Australia","Gold":2,"Silver":6,"Bronze":5,"Total":13}
+    ],
+    "1952": [
+        {"Country":"Australia","Gold":6,"Silver":2,"Bronze":3,"Total":11},
+        {"Country":"New Zealand","Gold":1,"Silver":0,"Bronze":2,"Total":3}
+    ],
+    "1956": [
+        {"Country":"Australia","Gold":13,"Silver":8,"Bronze":14,"Total":35},
+        {"Country":"New Zealand","Gold":2,"Silver":0,"Bronze":0,"Total":2}
+    ],
+    "1960": [
+        {"Country":"Australia","Gold":8,"Silver":8,"Bronze":6,"Total":22},
+        {"Country":"New Zealand","Gold":2,"Silver":0,"Bronze":1,"Total":3}
+    ],
+    "1964": [
+        {"Country":"Australia","Gold":6,"Silver":2,"Bronze":10,"Total":18},
+        {"Country":"New Zealand","Gold":3,"Silver":0,"Bronze":2,"Total":5}
+    ],
+    "1968": [
+        {"Country":"Australia","Gold":5,"Silver":7,"Bronze":5,"Total":17},
+        {"Country":"New Zealand","Gold":1,"Silver":0,"Bronze":2,"Total":3}
+    ],
+    "1972": [
+        {"Country":"Australia","Gold":8,"Silver":7,"Bronze":2,"Total":17},
+        {"Country":"New Zealand","Gold":1,"Silver":1,"Bronze":1,"Total":3}
+    ],
+    "1976": [
+        {"Country":"Australia","Gold":0,"Silver":1,"Bronze":4,"Total":5},
+        {"Country":"New Zealand","Gold":2,"Silver":1,"Bronze":1,"Total":4}
+    ],
+    "1980": [
+        {"Country":"Australia","Gold":2,"Silver":2,"Bronze":5,"Total":9}
+    ],
+    "1984": [
+        {"Country":"Australia","Gold":4,"Silver":8,"Bronze":12,"Total":24},
+        {"Country":"New Zealand","Gold":8,"Silver":1,"Bronze":2,"Total":11}
+    ],
+    "1988": [
+        {"Country":"Australia","Gold":3,"Silver":6,"Bronze":5,"Total":14},
+        {"Country":"New Zealand","Gold":3,"Silver":2,"Bronze":8,"Total":13}
+    ],
+    "1992": [
+        {"Country":"Australia","Gold":7,"Silver":9,"Bronze":11,"Total":27},
+        {"Country":"New Zealand","Gold":1,"Silver":4,"Bronze":5,"Total":10}
+    ],
+    "1996": [
+        {"Country":"Australia","Gold":9,"Silver":9,"Bronze":23,"Total":41},
+        {"Country":"New Zealand","Gold":3,"Silver":2,"Bronze":1,"Total":6},
+        {"Country":"Tonga","Gold":0,"Silver":1,"Bronze":0,"Total":1}
+    ],
+    "2000": [
+        {"Country":"Australia","Gold":16,"Silver":25,"Bronze":17,"Total":58},
+        {"Country":"New Zealand","Gold":1,"Silver":0,"Bronze":3,"Total":4}
+    ],
+    "2004": [
+        {"Country":"Australia","Gold":17,"Silver":16,"Bronze":16,"Total":49},
+        {"Country":"New Zealand","Gold":3,"Silver":2,"Bronze":0,"Total":5}
+    ],
+    "2008": [
+        {"Country":"Australia","Gold":14,"Silver":15,"Bronze":17,"Total":46},
+        {"Country":"New Zealand","Gold":3,"Silver":1,"Bronze":5,"Total":9}
+    ],
+    "2012": [
+        {"Country":"Australia","Gold":7,"Silver":16,"Bronze":12,"Total":35},
+        {"Country":"New Zealand","Gold":6,"Silver":2,"Bronze":5,"Total":13}
+    ]
+}
