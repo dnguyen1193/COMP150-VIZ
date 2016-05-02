@@ -1,0 +1,15 @@
+COMP150-VIZ: Intro to Visualizations
+Fall 2015
+Assignment 3: Force-Directed Node-Link Diagram
+Due: Monday, October 26th
+
+Team Members:
+    - Filipe Barroso
+    - Duyen Nguyen
+
+We both worked on parsing the data, storing it into data structures, and
+figuring out the basic implementation of the algorithm together.
+Filipe worked on implementing everything as PVectors instead of separate
+X and Y floats, as well as creating the control panel for the user interface.
+Duyen worked on debugging the node dragging and highlighting and Coulomb's law
+implementation.

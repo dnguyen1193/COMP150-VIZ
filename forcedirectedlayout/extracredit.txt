@@ -1,0 +1,44 @@
+Comp150-VIZ: Intro to Visualizations
+Fall 2015
+Assignment 3: Force Directed Node-Link Diagram
+Due: Monday, October 26th
+
+Team Members:
+	- Filipe Barroso
+	- Duyen Nguyen
+	
+Extra Credit
+    We created a Control Panel that allows the user to dynamically change the
+	system values.  The end use has the following options in the control panel:
+		- Update K1 constant
+			Value used in Hooke's law
+		- Update K2 constant
+			Value used in Coulomb's Law
+		- Energy Threshold
+			This represents the energy cutoff threshold for the system.  If the
+			overall total energy falls below this value the system will stop 
+			updating itself.
+		- Damping
+			Value that is multiplied by the velocity on every iteration.  The
+			value should be between 0 - 1.  Where .8 represents 80% of the 
+			previous value.  .2 represents 20% of the previous value etc.
+		- Space Mode
+			This is a fun mode that will change the background of the dialog
+			as well as the fonts & colors used in the graph.  When the hover
+			text is over the black space the text will appear orange.  On the
+			other hand, when the edge hover text is over planet earth it will
+			appear black.  The edge colors are red etc.
+		- Edge Data
+			This flag determines whether the edge info is displayed.  Edge data
+			consists of the start node, end node, resting length as well as 
+			current length (e.g. edge<1,17> (100, 150).  This indicates the 
+			starting node id is 1, end Node 17, resting length 100 & current
+			length is 150.
+		- Reset Button
+			This button will dynamically generate new x & y locations for each 
+			node.  This is extremely useful for resetting everything once the
+			other K1, K2, & damping constants have been changed and the system
+			is more or less at rest, allowing the user to quickly see how it 
+			impacts a new set of nodes that are randomly generated.
+			
+	
