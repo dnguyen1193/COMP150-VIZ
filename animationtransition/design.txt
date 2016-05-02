@@ -1,0 +1,36 @@
+Assignment 2: Animated Transitions
+Due: Monday, October 12th, 2015
+Created By: Denali Rao and Duyen Nguyen
+
+For this assignment, we created animated transitions between a bar chart and a line chart, a line chart and a pie chart, as well as a bar chart and a pie chart (by transitioning to a line chart first).
+
+For the transition from a bar chart to a line chart, we animate it in the following order:
+- Shrink the bar height
+- Shrink the bar width and fade it out as a circle fades in (as if to turn the bar width into a single dot)
+- Connect the dots with a line
+
+While the bar chart is meant to show magnitude and highlights differences in magnitude, the line chart shows the relationship between all the dots. By shrinking the bars down into a dot, we also take away the importance of the difference in magnitudes, replacing it with lines connecting the dots instead.
+
+To transition from a line chart to a bar chart, we do the exact opposite:
+- Remove the lines connecting the dots
+- Stretch the dot into the bar widths
+- Grow the bars out to their appropriate heights.
+
+To transition from a line chart to a pie chart, we animate as:
+- Remove the lines connecting the dots
+- Move the dots to the appropriate place in the pie chart
+- Draw lines into the center of the pie chart
+- Fan out the arcs to their appropriate arc lengths into the circle, representative of their values proportional to everything else.
+
+Both the line chart and pie chart highlight differences in magnitudes between different values. However, line charts show it as a change over time, while pie charts represent it more as an absolute change. Thus, it's appropriate to remove lines drawn between the dots in the line chart, though we have to redraw it at a later point - the lines connecting the dots in the pie chart do not mean the same thing they do in the line chart. Rather, they show that all these data points sum together to create a whole.
+
+To transition from a pie chart to a line chart, we animate it again, in reverse:
+- Close the arc fans, condensing it down to a single line and point
+- Detract the lines connecting all the dots from the center
+- Move the dots to the appropriate place in the line chart
+- Draw the lines connecting the dots.
+
+Our implementation goes from a bar chart to a pie chart and vice versa as well, going through a line chart as an intermediate transition.
+
+
+
